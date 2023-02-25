@@ -27,11 +27,23 @@ Here's how I like to spend my time:
 
 ---
 
+<div align="center">
+
 [![Cody's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codyaray&count_private=true&include_all_commits&show_icons=true&theme=dracula)](https://codyaray.com)
+  
+</div>
 
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=codyaray&theme=dracula&column=3" alt="GitHub Trophies" /></p>
+<div align="center">
 
-<p>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/337735/cody-a-ray?tab=profile"><img align="center" src="https://stackoverflow-card.vercel.app/?userID=337735&theme=dracula" alt="StackOverflow" /></a></p>
-
-<p>&nbsp;&nbsp;<img align="center" src="https://gpvc.arturio.dev/codyaray" alt="Profile Views" />&nbsp;&nbsp;
+<table cellpadding="0" cellspacing="0" style="border:0px solid white; width:100%;"><tr>
+  <td>
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=codyaray&theme=dracula&column=3" alt="GitHub Trophies" />
+  </td>
+  <td>
+    <a href="https://stackoverflow.com/users/337735/cody-a-ray?tab=profile"><img align="center" src="https://stackoverflow-card.vercel.app/?userID=337735&theme=dracula" alt="StackOverflow" /></a>
+    <p>&nbsp;&nbsp;<img align="center" src="https://gpvc.arturio.dev/codyaray" alt="Profile Views" />&nbsp;&nbsp;
 <a href="https://github.com/codyaray/codyaray/commits"><img align="center" src="https://img.shields.io/github/last-commit/codyaray/codyaray/main?label=Last%20updated&style=fla" alt="Last Updated" /></a></p>
+  </td>
+</table>
+
+</div>
