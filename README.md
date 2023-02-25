@@ -28,7 +28,6 @@ Here's how I like to spend my time:
 ---
 
 [![Cody's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codyaray&count_private=true&include_all_commits&show_icons=true&theme=dracula)](https://codyaray.com)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=codyaray&theme=dracula&mode=weekly)  
 
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=codyaray&theme=dracula&column=3" alt="GitHub Trophies" /></p>
 
