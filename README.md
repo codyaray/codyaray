@@ -17,7 +17,9 @@
 
 I’m a Senior Manager and Sr Staff Engineer at Confluent, which sets your data in motion :rocket:. I joined as part of the "tiger team" to build 
 and launch Confluent Cloud, the leading Kafka- and Confluent-as-a-Service solution. As the company grows, I help identify new critical areas 
-and bootstrap teams/solutions to address them (cross-cloud/multi-k8s orchestration, CLI/API/Terraform, internal developer platforms).
+and bootstrap teams/solutions to address them (cross-cloud/multi-k8s orchestration, CLI/API/Terraform, internal developer platforms). Prior
+to Confluent, I helped bootstrap Signal Digital, an adtech SaaS that was later aquired by TransUnion. In between SaaS startups, I was at
+Peak6 Investments, running DevOps, supporting in-house startups (such as CardBucks), and bootstrapping a micro-Private Equity effort.
 
 Here's how I like to spend my time:
 
